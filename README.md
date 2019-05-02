@@ -25,7 +25,7 @@ Developing a standard for the SMC* IEOs time duration (4 years) with cap table f
 >
 =>Tokenize stock certificate
 >
-=>Node identification ex:(regulators, local jurisdictions, shareholders)
+=>Node identification "white listing" ex:(regulators, local jurisdictions, shareholders)
 >
 =>Setup custody service (wallet address states: hot, warm,cold)
 >
